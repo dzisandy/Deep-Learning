@@ -1,0 +1,3 @@
+parameters https://drive.google.com/open?id=1oo7R88dxf9Mp-qeykYxzi8je-GCoj8SR
+
+vae.npz https://drive.google.com/open?id=1DYyZzELzHBkKjpz3s5xkCkURdA543TfN
