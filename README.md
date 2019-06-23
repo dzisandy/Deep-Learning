@@ -14,7 +14,7 @@ The course is about Deep Learning, i.e. a new generation of neural network-based
 
 [4. Homework 4](https://github.com/dzisandy/Deep-Learning/tree/master/HW4)
 
-[5. Final Project (TO BE CONTINUED)](https://github.com/dzisandy)
+[5. Final Project (Some data preprocessing stuff)](https://github.com/dzisandy/Deep-Learning/blob/master/Project.ipynb)
 
 ## Instructor
 * **Victor Lempitsky** - *Associate Professor* - [Link](http://sites.skoltech.ru/compvision/members/vilem/)
